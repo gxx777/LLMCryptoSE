@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/AESIVReuseCBC" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/AESIVReuseCFB" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/AESIVReuseCTR" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/AESIVReuseGCM" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/AESIVReuseOFB" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/AESKeyReuse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/AsymmetricEncryption" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/DSASignatureExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ECCEncryption" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ECDSASignatureExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/HashExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/PasswordBasedKeyDerivation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/PasswordProtection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/RSAEncryption" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/RSASignatureExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/RandomExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SignatureExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SymmetricEncryption" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SymmetricEncryptionCBC" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SymmetricEncryptionCFB" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SymmetricEncryptionCTR" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SymmetricEncryptionGCM" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SymmetricEncryptionOFB" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/copilot/chatSessions" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="bcprov-jdk15on-1.70 2" level="project" />
+  </component>
+</module>
